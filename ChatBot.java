@@ -1,10 +1,4 @@
 package ChatBot;
-/**
- * 
- * @author Soumyadip Chowdhury
- * @github soumyadip007
- *
- */
 public class ChatBot {
 
 	public static void main(String[] args) {
